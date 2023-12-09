@@ -1,3 +1,3 @@
 ## effective-cpp
 - cpp demo multithreads, memory pool, thread pool, objectpool
-- some guideline form effective cp
+- some guidelines form effective cpp
